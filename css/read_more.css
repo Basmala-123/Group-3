@@ -1,0 +1,109 @@
+body {
+    background-color: #fef7f7;
+    font-family: "Open Sans", sans-serif;
+
+
+}
+
+/**************paragraph1*************/
+.sec1 {
+    font-size: 1.29rem;
+    font-size: 300;
+}
+
+a {
+    text-decoration: none;
+    color: #ec0101;
+}
+
+a:hover {
+    color: #bd0101;
+}
+
+/*************sidebare1/*****/
+.input {
+    background-color: #fff;
+    padding: 25px;
+    font-size: 15px;
+    width: 100%;
+}
+
+.input input {
+    border: none;
+    outline: none;
+    width: 305px;
+    font-size: 16px;
+    height: 70px;
+    background-color: #f7f7f7;
+    padding: 10px;
+    padding-left: 27px;
+}
+
+.line {
+    border-bottom: 2px solid #d30101;
+    margin-left: 15px;
+    margin-right: 15px;
+    position: relative;
+    bottom: 13px;
+
+}
+
+/*******************sec2**************/
+.side2 {
+    margin-bottom: 30px;
+    padding: 15px;
+    font-size: 15px;
+    background: #fff;
+
+}
+
+.title {
+
+    margin: 20px;
+    font-size: 18px;
+}
+
+.list li {
+    list-style: none;
+    margin: 20px;
+}
+
+.list li span {
+    color: #ccc;
+  position: absolute;
+  right: 0;
+  margin-right: 150px;
+}
+
+.about {
+    margin-bottom: 30px;
+    padding: 25px;
+    font-size: 15px;
+    width: 100%;
+
+    background: #fff;
+}
+
+.about img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+
+}
+.about h3 {
+
+    font-size: 18px;
+    margin-top: 18px;
+}
+.about p{
+    font-size: 16.5px;
+    font-weight: lighter;
+}
+.about .btn {
+    background-color: #ec0101;
+    padding: 12px 30px;
+    font-size: 12px;
+    border-radius: 30px;
+    text-transform: uppercase;
+    letter-spacing: .1rem;
+}
