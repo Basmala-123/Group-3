@@ -1,0 +1,107 @@
+body {
+    background-color: #fef7f7;
+
+}
+
+.section {
+    padding-top: 300px;
+    padding-bottom: 400px;
+}
+
+.heading {
+    color: #ec0101;
+    font-size: 30px;
+    font-weight: 700;
+    text-transform: uppercase;
+
+
+}
+
+.sec_large {
+
+    position: relative;
+    top: 200px;
+
+
+}
+
+.teacher {
+
+    margin: auto;
+    border-radius: 70px;
+    border-bottom-right-radius: 200px;
+    padding: 40px 40px 80px 40px;
+    width: 59.33333%;
+    text-align: center;
+
+
+
+}
+
+.teacher p {
+    font-size: 20px;
+    font-family: 'Georgia', serif;
+    font-style: italic;
+
+}
+
+.rect1 {
+    background-color: #F8EFD4;
+
+}
+
+.rect2 {
+    background-color: #ddf8f6;
+
+}
+
+.rect3 {
+    background-color: #e6e7f6;
+
+}
+
+.font-weight-bold {
+    position: relative;
+    bottom: 80px;
+    font-size: 16px;
+}
+
+span {
+    position: relative;
+    bottom: 90px;
+    opacity: 0.5;
+}
+
+.carousel-inner {
+    overflow: visible;
+}
+
+.teacher .image {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    box-shadow: 0 15px 30px 0 rgba(0, 0, 0, 0.2);
+    position: relative;
+    bottom: 100px;
+
+
+}
+
+/****************control*******************/
+.carousel-control-prev i {
+    color: black;
+
+}
+
+.carousel-control-next i {
+    color: black;
+}
+
+.carousel-indicators li {
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    position: relative;
+    top: 50px;
+    background-color: red;
+}
