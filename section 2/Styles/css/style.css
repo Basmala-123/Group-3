@@ -1,0 +1,24 @@
+body{font-family: 'Montserrat', sans-serif;background-color: #3e1212;}
+/* Comments Headline */
+h3{font-weight: 200;
+line-height: 1.2;
+}
+/* Comments Section */
+.comments{padding: 250px 0px;}
+.comment{margin: 20px 34% 20px 0px;}
+img{margin-right: 20px;}
+p,button{margin-left: 63px;font-weight: 300;}
+#reply1{margin-left: 3%;}
+#reply2{margin-left: 6%;}
+#reply3{margin-left: 9%;}
+.date{margin-left: 8%;}
+.name{font-size: larger; font-weight: 700; color: white;}
+button{border: 0px;background-color: #323537;}
+/* Avatar */
+.avatar {
+    vertical-align: middle;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
